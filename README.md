@@ -1,2 +1,2 @@
-# SubQuery - Parachain Auction Indexer
+# Polkadot Auctions data fetching (SubQuery)
 
